@@ -26,8 +26,8 @@ MongoDB and find mongod accordingly.
 ```
 node app.js
 ```
-Now you are completely ready to start **Pet-Match** Go to your browser and search **http://localhost:27017/**
-This will direct you to the Index Page of Pet-Match
+Now you are completely ready to start **Pet-Match** Go to your browser and search for **http://localhost:27017/**
+This will redirect you to the Index Page of Pet-Match
 
 ## Built With
 * For frontend- **Bootstrap V3.3.7 - CSS - Semantic UI**
